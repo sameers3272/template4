@@ -559,7 +559,7 @@ animation: icon 700ms;
   color: #556270;
 }
 
-.section-titles h2{
+.section-title1 h2{
   font-size: 28px;
   font-weight: 500;
   padding: 0;
@@ -571,7 +571,7 @@ animation: icon 700ms;
   font-family: "Poppins", sans-serif;
 }
 
-.section-titles h2::after{
+.section-title1 h2::after{
   content: "";
   width: 120px;
   height: 2px;
@@ -579,7 +579,7 @@ animation: icon 700ms;
   background: #e6636a;
   margin: 8px 10px;
 }
-.section-titles p {
+.section-title1 p {
   margin: 0;
   margin: 0;
   font-size: 36px;
